@@ -2,7 +2,7 @@
 
 **Example of creating a Mix-application from initialization to publication.**
 
-https://folky.herokuapp.com/posts/3
+http://folky.ru/posts/3
 
 ## Installation
 
